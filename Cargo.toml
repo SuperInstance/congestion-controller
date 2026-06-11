@@ -1,0 +1,9 @@
+[package]
+name = "congestion-controller"
+version = "0.1.0"
+description = "A Rust library for Congestion Controller"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/casey-digennaro/congestion-controller"
+edition = "2021"
+
+[dependencies]
