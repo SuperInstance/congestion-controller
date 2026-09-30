@@ -1,9 +1,11 @@
 [package]
 name = "congestion-controller"
 version = "0.1.0"
-description = "A Rust library for Congestion Controller"
+description = "Congestion Controller — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/congestion-controller"
+repository = "https://github.com/SuperInstance/congestion-controller"
 edition = "2021"
+
+keywords = ["congestion-controller"]
 
 [dependencies]
